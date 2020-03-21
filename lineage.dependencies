@@ -1,8 +1,8 @@
 [
   {
-    "repository":  "AICP/kernel_xiaomi_sdm660",
+    "repository":  "nebrassy/kernel_xiaomi_sdm660-sailfish",
     "target_path": "kernel/xiaomi/sdm660",
-    "branch":      "p9.0"
+    "branch":      "hybris-16.0"
   },
   {
     "repository":  "LineageOS/android_packages_resources_devicesettings",
